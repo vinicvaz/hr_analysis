@@ -1,3 +1,4 @@
 Interesting target variables:
 - last_valuation : The score one the last employee evaluation (reg)
 - left_company : Did the employee leave the company?
+- will relocate : Is the employee willing to relocate?
